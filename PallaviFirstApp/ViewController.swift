@@ -12,6 +12,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        print("Sample Project Test with Git Hub")
+        print("Commit to Feature Dev Branch")
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
