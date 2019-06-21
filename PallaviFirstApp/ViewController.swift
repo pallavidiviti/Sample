@@ -18,6 +18,10 @@ class ViewController: UIViewController {
         print("second commit")
         print("Commit from Git")
         //Comment 1 .....
+       
+        print("Sample Project Test with Git Hub")
+        print("Commit to Feature-Dev Branch")
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
